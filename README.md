@@ -32,14 +32,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Envioronment Variable
 
 ### DFX CANISTER ENVIRONMENT VARIABLES
-DFX_VERSION
-DFX_NETWORK
-APP_CANISTER_ID
-CANISTER_ID_APP
-CANISTER_ID_app'
-CANISTER_ID'
-CANISTER_CANDID_PATH
+ - DFX_NETWORK
+ - APP_CANISTER_ID
+ - CANISTER_ID_APP
+ - CANISTER_ID_app
+ - CANISTER_ID
+ - CANISTER_CANDID_PATH
 ### END DFX CANISTER ENVIRONMENT VARIABLES
 
-NEXT_PUBLIC_CAN_ID=<backend_canister_id>
-NEXT_PUBLIC_BACKEND_URL=<host://protocol:port>
+ - NEXT_PUBLIC_CAN_ID=<backend_canister_id>
+ - NEXT_PUBLIC_BACKEND_URL=<host://protocol:port>
